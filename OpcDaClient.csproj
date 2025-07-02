@@ -7,9 +7,7 @@
     <PlatformTarget>x86</PlatformTarget>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="OPCFoundation.NetStandard.Opc.Da" Version="2.1.10" />
-  </ItemGroup>
+  <!-- No NuGet packages required - using COM Interop only -->
 
   <ItemGroup>
     <COMReference Include="OPCAutomation">
