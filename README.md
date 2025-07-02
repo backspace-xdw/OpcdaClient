@@ -1,5 +1,7 @@
 # OPC DA Client for C# (.NET Framework)
 
+[![Build Status](https://github.com/backspace-xdw/OpcdaClient/workflows/Build%20OPC%20DA%20Client/badge.svg)](https://github.com/backspace-xdw/OpcdaClient/actions)
+
 This is a C# implementation of an OPC DA (Data Access) client for Visual Studio 2019, targeting .NET Framework 4.7.2.
 
 ## Features
